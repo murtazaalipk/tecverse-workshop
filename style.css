@@ -1,0 +1,31 @@
+.btnFlex{
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 800px;
+}
+.btn{
+    height: 80px;
+    width: 80px;
+
+}
+.space{
+    height: 20px;
+    width: 500px;
+
+}
+.output{
+    height: 80px;
+    width: 315px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+.current{
+    font-size: xx-large;
+}
+.previous{
+    font-size: xx-large;
+}
+body{
+    padding-left: 100px;
+    padding-right: 100px;
+}
